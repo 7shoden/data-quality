@@ -1,0 +1,241 @@
+record_id,column,original_value,suspicion_score,flagged,human_status
+R100_0,designation,,0.99999999750727,True,a_revoir
+R100_1,designation,produit 100,0.5645895465182509,True,a_revoir
+R100_2,designation,produit 100,0.5645895465182509,True,a_revoir
+R100_3,designation,produit 100,0.5645895465182509,True,a_revoir
+R100_4,designation,produit 100,0.5645895465182509,True,a_revoir
+R100_5,designation,produit 100,0.5645895465182509,True,a_revoir
+R101_0,designation,produit 101,0.5645895465182509,True,a_revoir
+R101_1,designation,produit 101,0.5645895465182509,True,a_revoir
+R101_2,designation,produit 101,0.5645895465182509,True,a_revoir
+R101_3,designation,produit 101,0.5645895465182509,True,a_revoir
+R101_4,designation,produit 101,0.5645895465182509,True,a_revoir
+R101_5,designation,produit 101,0.5645895465182509,True,a_revoir
+R102_0,designation,produit 102,0.5645895465182509,True,a_revoir
+R102_1,designation,produit 102,0.5645895465182509,True,a_revoir
+R102_2,designation,produit 102,0.5645895465182509,True,a_revoir
+R102_3,designation,produit 102,0.5645895465182509,True,a_revoir
+R102_4,designation,produit 102,0.5645895465182509,True,a_revoir
+R102_5,designation,produit 102,0.5645895465182509,True,a_revoir
+R103_0,designation,produit 103,0.5645895465182509,True,a_revoir
+R103_1,designation,produit 103,0.5645895465182509,True,a_revoir
+R103_2,designation,produit 103,0.5645895465182509,True,a_revoir
+R103_3,designation,produit 103,0.5645895465182509,True,a_revoir
+R103_4,designation,produit 103,0.5645895465182509,True,a_revoir
+R103_5,designation,produit 103,0.5645895465182509,True,a_revoir
+R104_0,designation,produit 104,0.5645895465182509,True,a_revoir
+R104_1,designation,produit 104,0.5645895465182509,True,a_revoir
+R104_2,designation,produit 104,0.5645895465182509,True,a_revoir
+R104_3,designation,produit 104,0.5645895465182509,True,a_revoir
+R104_4,designation,produit 104,0.5645895465182509,True,a_revoir
+R104_5,designation,produit 104,0.5645895465182509,True,a_revoir
+R105_0,designation,produit 105,0.5645895465182509,True,a_revoir
+R105_1,designation,produit 105,0.5645895465182509,True,a_revoir
+R105_2,designation,produit 105,0.5645895465182509,True,a_revoir
+R105_3,designation,produit 105,0.5645895465182509,True,a_revoir
+R105_4,designation,produit 105,0.5645895465182509,True,a_revoir
+R105_5,designation,produit 105,0.5645895465182509,True,a_revoir
+R106_0,designation,produit 106,0.5645895465182509,True,a_revoir
+R106_1,designation,produit 106,0.5645895465182509,True,a_revoir
+R106_2,designation,produit 106,0.5645895465182509,True,a_revoir
+R106_3,designation,produit 106,0.5645895465182509,True,a_revoir
+R106_4,designation,produit 106,0.5645895465182509,True,a_revoir
+R106_5,designation,produit 106,0.5645895465182509,True,a_revoir
+R107_0,designation,produit 107,0.5645895465182509,True,a_revoir
+R107_1,designation,produit 107,0.5645895465182509,True,a_revoir
+R107_2,designation,produit 107,0.5645895465182509,True,a_revoir
+R107_3,designation,produit 107,0.5645895465182509,True,a_revoir
+R107_4,designation,produit 107,0.5645895465182509,True,a_revoir
+R107_5,designation,produit 107,0.5645895465182509,True,a_revoir
+R100_0,prix_mad,120.00,0.5262520700813701,False,a_revoir
+R100_1,prix_mad,120.50,0.5262520700813701,False,a_revoir
+R100_2,prix_mad,121.00,0.5262520700813701,False,a_revoir
+R100_3,prix_mad,121.50,0.5262520700813701,False,a_revoir
+R100_4,prix_mad,122.00,0.5262520700813701,False,a_revoir
+R100_5,prix_mad,122.50,0.5262520700813701,False,a_revoir
+R101_0,prix_mad,121.00,0.5262520700813701,False,a_revoir
+R101_1,prix_mad,121.50,0.5262520700813701,False,a_revoir
+R101_2,prix_mad,122.00,0.5262520700813701,False,a_revoir
+R101_3,prix_mad,122.50,0.5262520700813701,False,a_revoir
+R101_4,prix_mad,123.00,0.5262520700813701,False,a_revoir
+R101_5,prix_mad,123.50,0.5262520700813701,False,a_revoir
+R102_0,prix_mad,122.00,0.5262520700813701,False,a_revoir
+R102_1,prix_mad,122.50,0.5262520700813701,False,a_revoir
+R102_2,prix_mad,123.00,0.5262520700813701,False,a_revoir
+R102_3,prix_mad,123.50,0.5262520700813701,False,a_revoir
+R102_4,prix_mad,124.00,0.5262520700813701,False,a_revoir
+R102_5,prix_mad,124.50,0.5262520700813701,False,a_revoir
+R103_0,prix_mad,123.00,0.5262520700813701,False,a_revoir
+R103_1,prix_mad,123.50,0.5262520700813701,False,a_revoir
+R103_2,prix_mad,124.00,0.5262520700813701,False,a_revoir
+R103_3,prix_mad,124.50,0.5262520700813701,False,a_revoir
+R103_4,prix_mad,125.00,0.5262520700813701,False,a_revoir
+R103_5,prix_mad,125.50,0.5262520700813701,False,a_revoir
+R104_0,prix_mad,124.00,0.5262520700813701,False,a_revoir
+R104_1,prix_mad,124.50,0.5262520700813701,False,a_revoir
+R104_2,prix_mad,125.00,0.5262520700813701,False,a_revoir
+R104_3,prix_mad,125.50,0.5262520700813701,False,a_revoir
+R104_4,prix_mad,126.00,0.5262520700813701,False,a_revoir
+R104_5,prix_mad,126.50,0.5262520700813701,False,a_revoir
+R105_0,prix_mad,125.00,0.5262520700813701,False,a_revoir
+R105_1,prix_mad,125.50,0.5262520700813701,False,a_revoir
+R105_2,prix_mad,126.00,0.5262520700813701,False,a_revoir
+R105_3,prix_mad,126.50,0.5262520700813701,False,a_revoir
+R105_4,prix_mad,127.00,0.5262520700813701,False,a_revoir
+R105_5,prix_mad,127.50,0.5262520700813701,False,a_revoir
+R106_0,prix_mad,126.00,0.5262520700813701,False,a_revoir
+R106_1,prix_mad,126.50,0.5262520700813701,False,a_revoir
+R106_2,prix_mad,127.00,0.5262520700813701,False,a_revoir
+R106_3,prix_mad,127.50,0.5262520700813701,False,a_revoir
+R106_4,prix_mad,128.00,0.5262520700813701,False,a_revoir
+R106_5,prix_mad,128.50,0.5262520700813701,False,a_revoir
+R107_0,prix_mad,127.00,0.5262520700813701,False,a_revoir
+R107_1,prix_mad,127.50,0.5262520700813701,False,a_revoir
+R107_2,prix_mad,128.00,0.5262520700813701,False,a_revoir
+R107_3,prix_mad,128.50,0.5262520700813701,False,a_revoir
+R107_4,prix_mad,129.00,0.5262520700813701,False,a_revoir
+R107_5,prix_mad,129.50,0.5262520700813701,False,a_revoir
+R100_1,stock,26,0.3051655796762996,False,a_revoir
+R100_2,stock,27,0.3051655796762996,False,a_revoir
+R100_3,stock,28,0.3051655796762996,False,a_revoir
+R101_0,stock,26,0.3051655796762996,False,a_revoir
+R101_1,stock,27,0.3051655796762996,False,a_revoir
+R101_2,stock,28,0.3051655796762996,False,a_revoir
+R102_0,stock,27,0.3051655796762996,False,a_revoir
+R102_1,stock,28,0.3051655796762996,False,a_revoir
+R103_0,stock,28,0.3051655796762996,False,a_revoir
+R100_0,stock,25,0.28915916406183867,False,a_revoir
+R106_5,stock,36,0.28915916406183867,False,a_revoir
+R107_4,stock,36,0.28915916406183867,False,a_revoir
+R107_5,stock,37,0.28915916406183867,False,a_revoir
+R100_5,stock,30,0.27366164744524873,False,a_revoir
+R101_4,stock,30,0.27366164744524873,False,a_revoir
+R101_5,stock,31,0.27366164744524873,False,a_revoir
+R102_3,stock,30,0.27366164744524873,False,a_revoir
+R102_4,stock,31,0.27366164744524873,False,a_revoir
+R103_2,stock,30,0.27366164744524873,False,a_revoir
+R103_3,stock,31,0.27366164744524873,False,a_revoir
+R103_5,stock,33,0.27366164744524873,False,a_revoir
+R104_1,stock,30,0.27366164744524873,False,a_revoir
+R104_2,stock,31,0.27366164744524873,False,a_revoir
+R104_4,stock,33,0.27366164744524873,False,a_revoir
+R105_0,stock,30,0.27366164744524873,False,a_revoir
+R105_1,stock,31,0.27366164744524873,False,a_revoir
+R105_3,stock,33,0.27366164744524873,False,a_revoir
+R105_5,stock,35,0.27366164744524873,False,a_revoir
+R106_0,stock,31,0.27366164744524873,False,a_revoir
+R106_2,stock,33,0.27366164744524873,False,a_revoir
+R106_4,stock,35,0.27366164744524873,False,a_revoir
+R107_1,stock,33,0.27366164744524873,False,a_revoir
+R107_3,stock,35,0.27366164744524873,False,a_revoir
+R100_4,stock,29,0.2586924494001393,False,a_revoir
+R101_3,stock,29,0.2586924494001393,False,a_revoir
+R102_2,stock,29,0.2586924494001393,False,a_revoir
+R102_5,stock,32,0.2586924494001393,False,a_revoir
+R103_1,stock,29,0.2586924494001393,False,a_revoir
+R103_4,stock,32,0.2586924494001393,False,a_revoir
+R104_0,stock,29,0.2586924494001393,False,a_revoir
+R104_3,stock,32,0.2586924494001393,False,a_revoir
+R104_5,stock,34,0.2586924494001393,False,a_revoir
+R105_2,stock,32,0.2586924494001393,False,a_revoir
+R105_4,stock,34,0.2586924494001393,False,a_revoir
+R106_1,stock,32,0.2586924494001393,False,a_revoir
+R106_3,stock,34,0.2586924494001393,False,a_revoir
+R107_0,stock,32,0.2586924494001393,False,a_revoir
+R107_2,stock,34,0.2586924494001393,False,a_revoir
+R100_0,entrepot,casablanca,0.014841207735768282,False,a_revoir
+R100_3,entrepot,casablanca,0.014841207735768282,False,a_revoir
+R101_0,entrepot,casablanca,0.014841207735768282,False,a_revoir
+R101_3,entrepot,casablanca,0.014841207735768282,False,a_revoir
+R102_0,entrepot,casablanca,0.014841207735768282,False,a_revoir
+R102_3,entrepot,casablanca,0.014841207735768282,False,a_revoir
+R103_0,entrepot,casablanca,0.014841207735768282,False,a_revoir
+R103_3,entrepot,casablanca,0.014841207735768282,False,a_revoir
+R104_0,entrepot,casablanca,0.014841207735768282,False,a_revoir
+R104_3,entrepot,casablanca,0.014841207735768282,False,a_revoir
+R105_0,entrepot,casablanca,0.014841207735768282,False,a_revoir
+R105_3,entrepot,casablanca,0.014841207735768282,False,a_revoir
+R106_0,entrepot,casablanca,0.014841207735768282,False,a_revoir
+R106_3,entrepot,casablanca,0.014841207735768282,False,a_revoir
+R107_0,entrepot,casablanca,0.014841207735768282,False,a_revoir
+R107_3,entrepot,casablanca,0.014841207735768282,False,a_revoir
+R102_0,categorie,bureau,0.004684961883170541,False,a_revoir
+R102_1,categorie,bureau,0.004684961883170541,False,a_revoir
+R102_2,categorie,bureau,0.004684961883170541,False,a_revoir
+R102_3,categorie,bureau,0.004684961883170541,False,a_revoir
+R102_4,categorie,bureau,0.004684961883170541,False,a_revoir
+R102_5,categorie,bureau,0.004684961883170541,False,a_revoir
+R105_0,categorie,bureau,0.004684961883170541,False,a_revoir
+R105_1,categorie,bureau,0.004684961883170541,False,a_revoir
+R105_2,categorie,bureau,0.004684961883170541,False,a_revoir
+R105_3,categorie,bureau,0.004684961883170541,False,a_revoir
+R105_4,categorie,bureau,0.004684961883170541,False,a_revoir
+R105_5,categorie,bureau,0.004684961883170541,False,a_revoir
+R100_0,categorie,informatique,0.0031641668474131136,False,a_revoir
+R100_1,categorie,informatique,0.0031641668474131136,False,a_revoir
+R100_2,categorie,informatique,0.0031641668474131136,False,a_revoir
+R100_3,categorie,informatique,0.0031641668474131136,False,a_revoir
+R100_4,categorie,informatique,0.0031641668474131136,False,a_revoir
+R100_5,categorie,informatique,0.0031641668474131136,False,a_revoir
+R103_0,categorie,informatique,0.0031641668474131136,False,a_revoir
+R103_1,categorie,informatique,0.0031641668474131136,False,a_revoir
+R103_2,categorie,informatique,0.0031641668474131136,False,a_revoir
+R103_3,categorie,informatique,0.0031641668474131136,False,a_revoir
+R103_4,categorie,informatique,0.0031641668474131136,False,a_revoir
+R103_5,categorie,informatique,0.0031641668474131136,False,a_revoir
+R106_0,categorie,informatique,0.0031641668474131136,False,a_revoir
+R106_1,categorie,informatique,0.0031641668474131136,False,a_revoir
+R106_2,categorie,informatique,0.0031641668474131136,False,a_revoir
+R106_3,categorie,informatique,0.0031641668474131136,False,a_revoir
+R106_4,categorie,informatique,0.0031641668474131136,False,a_revoir
+R106_5,categorie,informatique,0.0031641668474131136,False,a_revoir
+R100_2,entrepot,fes,1.593249467574267e-05,False,a_revoir
+R100_5,entrepot,fes,1.593249467574267e-05,False,a_revoir
+R101_2,entrepot,fes,1.593249467574267e-05,False,a_revoir
+R101_5,entrepot,fes,1.593249467574267e-05,False,a_revoir
+R102_2,entrepot,fes,1.593249467574267e-05,False,a_revoir
+R102_5,entrepot,fes,1.593249467574267e-05,False,a_revoir
+R103_2,entrepot,fes,1.593249467574267e-05,False,a_revoir
+R103_5,entrepot,fes,1.593249467574267e-05,False,a_revoir
+R104_2,entrepot,fes,1.593249467574267e-05,False,a_revoir
+R104_5,entrepot,fes,1.593249467574267e-05,False,a_revoir
+R105_2,entrepot,fes,1.593249467574267e-05,False,a_revoir
+R105_5,entrepot,fes,1.593249467574267e-05,False,a_revoir
+R106_2,entrepot,fes,1.593249467574267e-05,False,a_revoir
+R106_5,entrepot,fes,1.593249467574267e-05,False,a_revoir
+R107_2,entrepot,fes,1.593249467574267e-05,False,a_revoir
+R107_5,entrepot,fes,1.593249467574267e-05,False,a_revoir
+R101_0,categorie,accessoire,1.2507309340685202e-05,False,a_revoir
+R101_1,categorie,accessoire,1.2507309340685202e-05,False,a_revoir
+R101_2,categorie,accessoire,1.2507309340685202e-05,False,a_revoir
+R101_3,categorie,accessoire,1.2507309340685202e-05,False,a_revoir
+R101_4,categorie,accessoire,1.2507309340685202e-05,False,a_revoir
+R101_5,categorie,accessoire,1.2507309340685202e-05,False,a_revoir
+R104_0,categorie,accessoire,1.2507309340685202e-05,False,a_revoir
+R104_1,categorie,accessoire,1.2507309340685202e-05,False,a_revoir
+R104_2,categorie,accessoire,1.2507309340685202e-05,False,a_revoir
+R104_3,categorie,accessoire,1.2507309340685202e-05,False,a_revoir
+R104_4,categorie,accessoire,1.2507309340685202e-05,False,a_revoir
+R104_5,categorie,accessoire,1.2507309340685202e-05,False,a_revoir
+R107_0,categorie,accessoire,1.2507309340685202e-05,False,a_revoir
+R107_1,categorie,accessoire,1.2507309340685202e-05,False,a_revoir
+R107_2,categorie,accessoire,1.2507309340685202e-05,False,a_revoir
+R107_3,categorie,accessoire,1.2507309340685202e-05,False,a_revoir
+R107_4,categorie,accessoire,1.2507309340685202e-05,False,a_revoir
+R107_5,categorie,accessoire,1.2507309340685202e-05,False,a_revoir
+R100_1,entrepot,rabat,1.7011921599857993e-06,False,a_revoir
+R100_4,entrepot,rabat,1.7011921599857993e-06,False,a_revoir
+R101_1,entrepot,rabat,1.7011921599857993e-06,False,a_revoir
+R101_4,entrepot,rabat,1.7011921599857993e-06,False,a_revoir
+R102_1,entrepot,rabat,1.7011921599857993e-06,False,a_revoir
+R102_4,entrepot,rabat,1.7011921599857993e-06,False,a_revoir
+R103_1,entrepot,rabat,1.7011921599857993e-06,False,a_revoir
+R103_4,entrepot,rabat,1.7011921599857993e-06,False,a_revoir
+R104_1,entrepot,rabat,1.7011921599857993e-06,False,a_revoir
+R104_4,entrepot,rabat,1.7011921599857993e-06,False,a_revoir
+R105_1,entrepot,rabat,1.7011921599857993e-06,False,a_revoir
+R105_4,entrepot,rabat,1.7011921599857993e-06,False,a_revoir
+R106_1,entrepot,rabat,1.7011921599857993e-06,False,a_revoir
+R106_4,entrepot,rabat,1.7011921599857993e-06,False,a_revoir
+R107_1,entrepot,rabat,1.7011921599857993e-06,False,a_revoir
+R107_4,entrepot,rabat,1.7011921599857993e-06,False,a_revoir

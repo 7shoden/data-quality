@@ -1,0 +1,19 @@
+Édition maîtrise - vérification du 10 novembre 2026
+
+Installation dans un environnement virtuel neuf : Python 3.12.14.
+Installation de requirements-lock.txt réussie.
+python -m pytest -q : 17 passed in 3.04s.
+python -m ateliers.diagnostic_installation : INSTALLATION OK.
+python -m ateliers.verifier_exercices --corrige : 6/6.
+Trace de cinq cellules : scores et matrices de confusion vérifiés.
+Diagnostic Hospital : reconstruction de cinq scores par contributions
+linéaires à 10^-10 près, sans nouvel apprentissage.
+Transfert clients et inventaire : génération, entraînement, test séparé et
+inférence sur fresh_dirty.csv exécutés.
+
+Hospital : modèles et chiffres du benchmark initial conservés.
+Les nouveaux ateliers ne réoptimisent aucun résultat Hospital test.
+Clients et inventaire : données fictives ; résultats propres à ces générateurs.
+Streamlit : scénario vérifié avec uploads simulés, pas un déploiement public.
+Revue humaine des labels et étude sur un lecteur débutant restent à réaliser.
+Aucune de ces activités humaines n'est présentée comme déjà effectuée.

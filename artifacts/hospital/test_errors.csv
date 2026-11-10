@@ -1,0 +1,21 @@
+record_id,row_position,column,original_value,target,score,predicted_error,kind
+433,113,state,ak,0,0.9907695667400909,True,FP
+434,114,state,ak,0,0.9907695667400909,True,FP
+435,115,state,ak,0,0.9907695667400909,True,FP
+436,116,state,ak,0,0.9907695667400909,True,FP
+437,117,state,ak,0,0.9907695667400909,True,FP
+438,118,state,ak,0,0.9907695667400909,True,FP
+439,119,state,ak,0,0.9907695667400909,True,FP
+440,120,state,ak,0,0.9907695667400909,True,FP
+441,121,state,ak,0,0.9907695667400909,True,FP
+442,122,state,ak,0,0.9907695667400909,True,FP
+222,38,county,dx kalb,1,0.010193486414826649,False,FN
+224,40,county,xe kalb,1,0.010193486414826649,False,FN
+228,44,county,dx kalb,1,0.010193486414826649,False,FN
+239,55,county,xe kalb,1,0.010193486414826649,False,FN
+385,103,name,univ ox south alabama medical center,1,0.018640331241254395,False,FN
+386,104,name,xniv of soxth alabama medical center,1,0.018640331241254395,False,FN
+229,45,city,fort payxe,1,0.020633188158902596,False,FN
+768,146,address_1,301 east 1xth st,1,0.0289695725293343,False,FN
+388,106,state_average,al_hx-2,1,0.03273458675334947,False,FN
+788,166,state_average,al_hf-x,1,0.0431506592930712,False,FN

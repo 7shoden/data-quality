@@ -1,0 +1,6 @@
+record_id,row_position,column,original_value,target,score,predicted_error,kind
+489,88,measure_code,xeasure-8,1,0.03830759684544962,False,FN
+548,107,name,xospital 54,1,0.2133260949523204,False,FN
+140,39,state_average,xa_measure-9,1,0.22254158024780024,False,FN
+131,30,address_1,x4 main street,1,0.5752779849202954,False,FN
+338,47,address_1,x4 main street,1,0.5752779849202954,False,FN

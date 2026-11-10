@@ -1,0 +1,42 @@
+{
+  "seed": 42,
+  "selected": {
+    "name": "logistic_ctx1_dNone_w1",
+    "family": "logistic",
+    "depth": null,
+    "weighted": true,
+    "context": true,
+    "threshold": 0.6500000000000001
+  },
+  "selection": "maximum validation F1; thresholds .05:.05:.95",
+  "python": "3.12.14",
+  "sklearn": "1.6.1",
+  "pandas": "2.2.3",
+  "numpy": "2.2.6",
+  "source_hashes": {
+    "src/__init__.py": "8c2c84806b5c6e7c3b60c0bcbb45a42e4d6acb19f0f6ee3d88a8a4c44667c775",
+    "src/data.py": "f76ba54134e6b80607d7eef9d4b28d36a34fa8ef36aac4a9996845460f73ee87",
+    "src/experiment.py": "3634d69a50a00e48dd3f43d1b9d5cef87a8d2e559792d96a52cc3d08dd3a70ea",
+    "src/features.py": "2214587fd5bc169087272927f6da896897fda3d911a666fb2b2f20bb6a8f5850",
+    "src/metrics.py": "04491eae92ad27185e5c8f53665e3475065e181100e1a3e16317ca70df12cf66",
+    "src/predict.py": "11178145835a18e277547e77448454700ab3695484811689b38281995a3e8b7a",
+    "auditor.py": "ba9775d57650bb47dfd638e595381444ad41b546dca5cc61856f85b92fc79b6a"
+  },
+  "data_hashes": {
+    "dirty.csv": "314179d2a30e9117703e63c256276507224f1ef4818ba01d386a022433b2bf4c",
+    "clean.csv": "669522108a15dc7d5babbc4f7eb85e60aaccfacc9f9dfa88864553d452ab4d1a"
+  },
+  "artifact_hashes": {
+    "bundle.joblib": "e7ff2dafacb3834d084812ea6c8837b0b6abeef48b2e2372bc83ee2575d5a63f",
+    "splits.json": "9332bdb43aabcee545e43d417c9f91c8998694362e49c1e149b908547f03b36e",
+    "schema.json": "7f77aa992d629b823687056634c10bafc075f02d1d2f5ba01a2acabe3f111cec"
+  },
+  "maintenance": [
+    {
+      "file": "src/predict.py",
+      "reason": "Correction de compatibilité pandas du sélecteur de types dans export CSV après le benchmark ; aucun modèle, profil, seuil ou calcul de métrique modifié.",
+      "before_sha256": "c452b502dd95fc9bf764e4d49bdc1150c167b506f728ec965d83de60e6f93fbd",
+      "after_sha256": "11178145835a18e277547e77448454700ab3695484811689b38281995a3e8b7a"
+    }
+  ]
+}

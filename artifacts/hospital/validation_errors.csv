@@ -1,0 +1,16 @@
+record_id,row_position,column,original_value,target,score,predicted_error,kind
+451,31,state,ak,0,0.9907695667400909,True,FP
+452,32,state,ak,0,0.9907695667400909,True,FP
+903,133,condition,children s asthma care,0,0.5869850691520246,True,FP
+904,134,condition,children s asthma care,0,0.5869850691520246,True,FP
+905,135,condition,children s asthma care,0,0.5869850691520246,True,FP
+561,77,name,jaxkson hospital & xlinix inx,1,0.012893493554543847,False,FN
+750,116,measure_code,hx-2,1,0.0346102603591332,False,FN
+533,49,name,baptist medical cexter south,1,0.04210813622238681,False,FN
+542,58,measure_name,hexrt attxck pxtients given aspirin xt arrivxl,1,0.04881864763961688,False,FN
+904,134,name,rivxrvixw rxgional mxdical cxntxr,1,0.04937759787554516,False,FN
+922,152,name,xivexview xegional medical centex,1,0.04937759787554516,False,FN
+923,153,name,riverview rexional medical center,1,0.04937759787554516,False,FN
+546,62,measure_name,heaxt attack patients given beta blockex at dischaxge,1,0.0554709733200162,False,FN
+270,0,state_average,al_axi-1,1,0.06749224798325351,False,FN
+556,72,state_average,al_pn-5x,1,0.06749224798325351,False,FN

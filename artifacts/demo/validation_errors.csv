@@ -1,0 +1,3 @@
+record_id,row_position,column,original_value,target,score,predicted_error,kind
+101,20,state_average,xa_measure-0,1,0.22254158024780024,False,FN
+495,104,address_1,x0 main street,1,0.5752779849202954,False,FN

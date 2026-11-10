@@ -1,0 +1,38 @@
+{
+  "model": {
+    "precision": 1.0,
+    "recall": 0.9090909090909091,
+    "f1": 0.9523809523809523,
+    "tn": 458,
+    "fp": 0,
+    "fn": 2,
+    "tp": 20,
+    "error_support": 22,
+    "cells": 480,
+    "average_precision": 0.9158023184868822
+  },
+  "rules": {
+    "precision": 1.0,
+    "recall": 0.9090909090909091,
+    "f1": 0.9523809523809523,
+    "tn": 458,
+    "fp": 0,
+    "fn": 2,
+    "tp": 20,
+    "error_support": 22,
+    "cells": 480,
+    "average_precision": 0.9132575757575757
+  },
+  "always_correct": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "tn": 458,
+    "fp": 0,
+    "fn": 22,
+    "tp": 0,
+    "error_support": 22,
+    "cells": 480,
+    "average_precision": 0.04583333333333333
+  }
+}

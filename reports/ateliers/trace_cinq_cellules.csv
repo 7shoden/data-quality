@@ -1,0 +1,6 @@
+cell,column,dirty,clean,target,missing,type_mismatch,length,digit_ratio,train_frequency,unseen,z,score,prediction_050,prediction_015
+A,phone,2051234567,2051234567,0,0,0,10,1.0,0.4,0,-3.0,0.04742587317756678,0,0
+B,phone,205123456x,2051234567,1,0,1,10,0.9,0.0,1,2.5,0.9241418199787566,1,1
+C,emergency_service,yxs,yes,1,0,1,3,0.0,0.0,1,2.5,0.9241418199787566,1,1
+D,city,sheffield,sheffield,0,0,0,9,0.0,0.0,1,-1.5,0.18242552380635635,0,1
+E,city,birmingxam,birmingham,1,0,0,10,0.0,0.0,1,-1.5,0.18242552380635635,0,1

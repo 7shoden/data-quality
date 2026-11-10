@@ -1,0 +1,12 @@
+{
+  "origin": "Données fictives de formation, aucune observation réelle.",
+  "groups": 80,
+  "rows": 480,
+  "business_columns": 5,
+  "changed_cells": 96,
+  "files": {
+    "dirty.csv": "e05aa71ba5a6e79be1d8f4eadbf340c50204002cce0ba9281af01348007a21f9",
+    "clean.csv": "eaca82eff377dcb9e85db4db7a7fa11c7782053410ec403e0c89aa0c7b2cd110",
+    "fresh_dirty.csv": "9c23dd29e5b150f09c13b242fa485a295451e91284ecbb73a009051998585eb4"
+  }
+}
